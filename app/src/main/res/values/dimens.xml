@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="elevacion_actionbar">4dp</dimen>
+    <dimen name="margenTop_mascota">20dp</dimen>
+    <dimen name="tama_horizontal_foto_cardview">285dp</dimen>
+    <dimen name="tama_Hori_verti_iconohueso">38dp</dimen>
+    <dimen name="card_corner_radius_cardview">4dp</dimen>
+    <dimen name="margenLeft_mascota">10dp</dimen>
+    <dimen name="nombre_cardview">25sp</dimen>
+    <dimen name="cantidad_like_cardview">20sp</dimen>
+    <dimen name="tama_imagen_actionbar">30dp</dimen>
+</resources>

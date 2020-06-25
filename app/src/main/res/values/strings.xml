@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PetagramMascota</string>
+    <string name="cd_imagen_foto_cardview">Imagen de la Foto del CardView</string>
+    <string name="p_nombre">Nombre Mascota</string>
+    <string name="cd_imagen_huesoblanco_cardview">Imagen del Hueso Blanco del CardView</string>
+    <string name="p_cantidad_like">0</string>
+    <string name="cd_imagen_huesoamarillo_cardview">Imagen del Hueso amarillo del CardView</string>
+    <string name="menu_favoritos">5 Favoritos</string>
+    <string name="cantidad_mascotas_favoritas">Cantidad de Mascotas Favoritas: </string>
+</resources>
